@@ -7,7 +7,7 @@
 > **Paper:** *Feature‑Level Insights into Artificial Text Detection with Sparse Autoencoders* \
 > **Venue:** Findings of ACL 2025 \
 > **Authors:** Kristian Kuznetsov, Laida Kushnareva, Polina Druzhinina, Anton Razzhigaev, Anastasia Voznyuk, Irina Piontkovskaya, Evgeny Burnaev, Serguei Barannikov \
-> **Link:** https://aclanthology.org/2025.findings-acl.1321/
+> **Link:** https://aclanthology.org/2025.findings-acl.1321/ \
 > **Abstract (short):**
 > “We enhance interpretability in Artificial‑Text Detection (ATD) by extracting **sparse, human‑interpretable features** from Gemma‑2‑2B with Sparse Autoencoders (SAEs) and show that a tiny fraction of those features already outperforms strong activation‑based baselines.” 
 
