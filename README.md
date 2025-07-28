@@ -4,8 +4,8 @@
 ![Python >= 3.10](https://img.shields.io/badge/python-3.10%2B-green)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow)
 
-> **Paper:** *Feature‑Level Insights into Artificial Text Detection with Sparse Autoencoders*
-> **Venue:** Findings of ACL 2025
+> **Paper:** *Feature‑Level Insights into Artificial Text Detection with Sparse Autoencoders* \
+> **Venue:** Findings of ACL 2025 \
 > **Authors:** Kristian Kuznetsov, Laida Kushnareva, Polina Druzhinina, Anton Razzhigaev, Anastasia Voznyuk, Irina Piontkovskaya, Evgeny Burnaev, Serguei Barannikov
 > **Link:** [paper link](https://aclanthology.org/2025.findings-acl.1321/)
 > **Abstract (short):**
